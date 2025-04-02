@@ -1,3 +1,10 @@
+* text=auto
+*.txt text
+*.md text
+*.cpp text
+*.h text
+.gitattributes text
+.gitignore text
 # Created by https://www.toptal.com/developers/gitignore/api/windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows
 
