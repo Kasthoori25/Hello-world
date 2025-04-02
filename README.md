@@ -1,2 +1,2 @@
-# Hello-world
+# hello-world
 This repository for cpt317 assignment.
